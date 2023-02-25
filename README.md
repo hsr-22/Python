@@ -1,3 +1,3 @@
 # Python
-## My Python Codespace
-This is the place where I'll put up my Python practice.
+## My Python Repository
+This is the place where I'll (hopefully) put up my Python practice.
