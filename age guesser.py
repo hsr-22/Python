@@ -1,3 +1,4 @@
+#Can guess your age provided if you give the right inputs :)
 down = 0
 up = 100
 
@@ -8,9 +9,9 @@ for i in range(1,10):
     if answer == 'correct' :
         print("Nice")
         break
-    elif answer == 'less' :
+    elif answer == 'No, it\'s less' :
         up = guessed_age
-    elif answer == 'more' :
+    elif answer == 'No it\'s more' :
         down = guessed_age
     else :
         print('Wrong Answer')
